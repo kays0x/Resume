@@ -11,7 +11,7 @@ Kevin Peng
 
 ## Hi Recruiter!
 
-Hope everything is going well for you/
+Hope everything is going well!
 
 A quick background about myself. I'm a 21-year-old who decided to drop out of the University of Toronto a while back. I've always been a self-starter and believe that I can learn more outside of school, so I made the decision to follow my own path, even though I know it might be challenging.
 
@@ -19,7 +19,7 @@ Currently, I am working at Multiplex Labs, where I've been diving deep into the 
 
 What's amazing about working at Multiplex is that I've had the opportunity to collaborate with some big players in the industry, including dYdX, Delphi Labs, Zetachain, Cosmos, and various IBC blockchain foundations. It's been incredibly inspiring, and I've learned so much from these interactions.
 
-But that's not all! I've also had the chance to explore growth strategies as a Growth Associate at Clique. I designed and executed user growth campaigns for some awesome clients and the user flow on the platform. We saw some seriously impressive engagement on Twitter. And my time as a Content Marketing Lead at Chainpeak. I got to create educational content pieces, whitepapers, and press releases that really connected with the community. These experiences have helped me develop a knack for sourcing knowleage, learning new stuff and creating engaging content.
+Moreover, I've also had the chance to explore growth strategies as a Growth Associate at Clique. I designed and executed user growth campaigns for some awesome clients and the user flow on the platform. We saw some seriously impressive engagement on Twitter. And my time as a Content Marketing Lead at Chainpeak. I got to create educational content pieces, whitepapers, and press releases that really connected with the community. These experiences have helped me develop a knack for sourcing knowleage, learning new stuff and creating engaging content.
 
 I've uploaded my resume to this repository in case you want to take a look. I would love the opportunity to chat more about how my skills and experiences can contribute to your organization's growth and success. And just to let you know, I'm fluent in both English and Mandarin, so communication won't be an issue.
 
