@@ -1,17 +1,11 @@
 # Cover Letter
-## Infomation:
+## Infomation
 
 Kevin Peng
 
-kevin.peng@mail.com
+[Email](kevin.peng@mail.com) | [Twitter](twitter.com/kayslitt) | [Linkedin](linkedin.com/in/kevinpeng0x/) | [Telegram](t.me/kays0x)  | [Calendly](calendly.com/loopman/kevin-peng) | [Writings](kevinotion.notion.site/02a0e10c785f4e7989f90ec982184765?v=30b9fcb2b9d04f41b3baaa7dd840b3e3&pvs=4)
 
 +1 647-702-3450
-
-+86 180-7310-6212
-
-linkedin/in/kevinpeng0x
-
-twitter/kaylitt
 
 ## Hi Recruiter!
 
@@ -27,7 +21,7 @@ In addition to my research expertise, I have also gained valuable experience in 
 
 My resume is uploaded in this repository  . I would welcome the opportunity to further discuss my qualifications and how I can contribute to your organization's growth and success. BTW I am fluent in both English and Mandarin, facilitating effective communication and collaboration with diverse teams.
 
-Thank you for considering my application. I am eagerly looking forward to the possibility of joining your team and contributing to your mission. Please feel free to contact me at [Your Email Address] or [Your Phone Number] to arrange an interview or request any additional information.
+Thank you for considering my application. I am eagerly looking forward to the possibility of joining your team and contributing to your mission. Please feel free to contact me via Telegram or Email to arrange an interview or request any additional information.
 
 Thank you for your time and consideration.
 
