@@ -24,6 +24,8 @@ Moreover, I've also had the chance to explore growth strategies as a Growth Asso
 
 I've uploaded my resume to this repository in case you want to take a look. I would love the opportunity to chat more about how my skills and experiences can contribute to your organization's growth and success. And just to let you know, I'm fluent in both English and Mandarin, so communication won't be an issue.
 
+[Click to Check My Resume](https://github.com/kays0x/Resume/blob/main/Kevin%20Peng%202023.pdf)
+
 Thank you so much for considering my application. I genuinely look forward to the possibility of joining your team and being part of your mission. Feel free to contact me via Telegram or email. I'm here and excited to chat.
 
 Sending you my sincere thanks for your time and consideration.
