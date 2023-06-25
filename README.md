@@ -1,10 +1,16 @@
 # Cover Letter
 ## Infomation:
+
 Kevin Peng
+
 kevin.peng@mail.com
+
 +1 647-702-3450
+
 +86 180-7310-6212
+
 linkedin/in/kevinpeng0x
+
 twitter/kaylitt
 
 ## Hi Recruiter!
