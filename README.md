@@ -1,9 +1,10 @@
 # Cover Letter
-[Kevin Peng]
-[kevin.peng@mail.com]
-[+1 647-702-3450]
+## Infomation:
+### [Kevin Peng]
+### [kevin.peng@mail.com]
+### [+1 647-702-3450]
 
-Hi Recruiter!
+## Hi Recruiter!
 
 Hope you are doing all well!
 
