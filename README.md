@@ -5,9 +5,10 @@ Kevin Peng
 
 <img src="https://github.com/kays0x/Resume/assets/48529172/e56ebad3-44fa-487b-aa4f-3336159bc98f" width="35%" height="35%">
 
-[Email](kevin.peng@mail.com) | [Twitter](https://www.twitter.com/kayslitt) | [Linkedin](https://www.linkedin.com/in/kevinpeng0x/) | [Telegram](https://www.t.me/kays0x)  | [Calendly](https://www.calendly.com/loopman/kevin-peng) | [Writings](https://kevinotion.notion.site/02a0e10c785f4e7989f90ec982184765?v=30b9fcb2b9d04f41b3baaa7dd840b3e3&pvs=4)
+[Email](mailto:kevinpeng0x@proton.me) | [Twitter](https://www.twitter.com/kayslitt) | [Linkedin](https://www.linkedin.com/in/kevinpeng0x/) | [Telegram](https://www.t.me/kays0x)  | [Calendly](https://www.calendly.com/loopman/kevin-peng) | [Writings](https://kevinotion.notion.site/02a0e10c785f4e7989f90ec982184765?v=30b9fcb2b9d04f41b3baaa7dd840b3e3&pvs=4)
 
 +1 647-702-3450
++86 180-731-06212
 
 ## Hi Recruiter!
 
